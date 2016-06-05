@@ -90,3 +90,5 @@ alias mysqladmin="/usr/local/mysql/bin/mysqladmin"
 alias ga='git add'
 alias gc='git commit'
 alias gp='git push'
+alias server='ssh root@139.129.6.166'
+alias e="emacs"
